@@ -2,7 +2,7 @@ import hashlib as cracker
 print("""
 ##########################################
 #                                        #
-#    Zeon MD5 Password Cracker Tool v1   #
+#      Zeon MD5 Hash Cracker Tool v1     #
 #                                        #
 ##########################################
       """)
